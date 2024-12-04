@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",       // Use ESNext modules
+        "target": "ES2020",       // Target modern JS
+        "moduleResolution": "node", // Use Node.js-compatible resolution
+        "esModuleInterop": true   // Ensure compatibility with CommonJS imports
+    }
+}
